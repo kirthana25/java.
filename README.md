@@ -29,3 +29,12 @@ public class Main
       System.out.println(num1+" "+operator+" "+num2+" = "+answer);
     }
  }
+ 
+ Output:
+ Please enter first number:
+ 3
+ Please enter second number:
+ 5
+ What operation
+ +
+ 3 + 5 = 8.0
